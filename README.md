@@ -1,12 +1,5 @@
-#frame
--		обработка ошибок
-ядро	core
-	автоподгрузчик	bootstrap.php
-модули	module
-	роутер	route.php
-	безопасность	security.php
-	почта	mail.php
-	подключение к бд	db_connect.php
-	пользователи	user.php
-	рефералка	referal.php
-	фронтконтроллер	index.php
+﻿<p>
+Исходные коды проекта, описанного в статье: "<a href="http://habrahabr.ru/post/150267/">Реализация MVC паттерна на примере создания сайта-визитки на PHP</a>".
+<br/>
+&copy; vitalyswipe
+</p>
